@@ -1,0 +1,26 @@
+# DSA 0 to Advance
+
+### Must do Pattern Problems
+
+1. ![pattern](P1.png)
+2. ![pattern](P2.png)
+3. ![pattern](P3.png)
+4. ![pattern](P4.png)
+5. ![pattern](P5.png)
+6. ![pattern](P6.png)
+7. ![pattern](P7.png)
+8. ![pattern](P8.png)
+9. ![pattern](P9.png)
+10. ![pattern](P10.png)
+11. ![pattern](P11.png)
+12. ![pattern](P12.png)
+13. ![pattern](P13.png)
+14. ![pattern](P14.png)
+15. ![pattern](P15.png)
+16. ![pattern](P16.png)
+17. ![pattern](P17.png)
+18. ![pattern](P18.png)
+19. ![pattern](P19.png)
+20. ![pattern](P20.png)
+21. ![pattern](P21.jpg)
+22. ![pattern](P22.png)
